@@ -246,11 +246,7 @@ tests:
    test your code.
 6. Once all your tests are passing, it's time to submit your assignment - or is
    it?
-
-### Pushing your Changes to GitHub
-
-If you go to your **forked** version of the assignment on GitHub, you'll see
-that the `myfile.md` file you created is not there. Notice in the screenshot
+t there. Notice in the screenshot
 below, for example, `myfile.md` exists in the local VS Code editor, but not
 anywhere in the forked GitHub repo.
 
